@@ -40,4 +40,4 @@ https://github.com/omcandido/vrep_plugin_velodyne
 
 
 <br /> <br />
-feel free to use as a simulator and if you find any bug while using, report me please Thx :-)  
+feel free to use and if you find any bug while using, post an issue. Thx :-)  
