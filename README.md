@@ -6,9 +6,10 @@
 
 <br /> <br />
 ## Instrunction
-It's built for Autonomous Vehicle Simulator using V-Rep & ROS simultaneously
-It publishes data `Velodyne PointCloud`, `IMU Sensor`, `GPS`, `Localization (X,Y,Z,Heading)`, `Transform (tf)`  
+- It's built for Autonomous Vehicle Simulator using V-Rep & ROS simultaneously  
+- It publishes data `Velodyne PointCloud`, `IMU Sensor`, `GPS`, `Localization (X,Y,Z,Heading)`, `Transform (tf)`  
 to ROS at the same time as soon as you run the simulation.   
+- Map File was built by using `Google Sketchup`.
 
 1. move `libv_repExtImu.so`, `libv_repExtRosVelodyne.so` to your V-Rep home folder.  
 2. build `libv_repExtRosInterface.so` and move to your V-Rep home folder to communicate with ROS. (googling please)
