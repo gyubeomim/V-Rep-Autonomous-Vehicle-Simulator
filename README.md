@@ -27,14 +27,17 @@ to ROS at the same time as soon as you run the simulation.
 
 
 <br /> <br />
+## Reference
 I've used IMU Plugin & Velodyne Plugin from   
 https://github.com/bartville/vrep_plugin_imu  
 https://github.com/omcandido/vrep_plugin_velodyne
 <br /><br />
 
-feel free to use as a simulator and if you find any bug while using, report me please Thx :-)  
-
 <br /> <br />
 ## TODO
 1. modify Vehicle Wheel 
 2. Other Map (Highway, Urban etc..)
+
+
+<br /> <br />
+feel free to use as a simulator and if you find any bug while using, report me please Thx :-)  
