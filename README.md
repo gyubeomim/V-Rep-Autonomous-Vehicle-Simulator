@@ -37,7 +37,8 @@ https://github.com/omcandido/vrep_plugin_velodyne
 ## TODO
 1. modify Vehicle Wheel 
 2. Other Map (Highway, Urban etc..)
+3. use URDF file of Vehicle
 
 
 <br /> <br />
-feel free to use and if you find any bug while using, post an issue. Thx :-)  
+feel free to use and if you find any bug while using, post an issue. :-)  
