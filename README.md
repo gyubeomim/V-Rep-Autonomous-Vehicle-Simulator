@@ -4,9 +4,15 @@
 <img src="pictures/1.png"  >
 <img src="pictures/gif1.gif"  >
 
-## It's built for Autonomous Vehicle Simulator using V-Rep & ROS simultaneously
+## Instrunction
+It's built for Autonomous Vehicle Simulator using V-Rep & ROS simultaneously
 It publishes data `Velodyne PointCloud`, `IMU Sensor`, `GPS`, `Localization (X,Y,Z,Heading)`, `Transform (tf)`  
-to ROS at the same time as soon as you run the simulation.  
+to ROS at the same time as soon as you run the simulation.   
+
+1. move `libv_repExtImu.so`, `libv_repExtRosVelodyne.so` to your V-Rep home folder.  
+2. build `libv_repExtRosInterface.so` and move to your V-Rep home folder.  
+3. open V-Rep and if there is no error, It's OK  
+
 
 
 <br /> <br />
@@ -15,7 +21,7 @@ to ROS at the same time as soon as you run the simulation.
 <br /><br />
 
 ## Transform Tree(tf tree)
-<img src="pictures/3.png" width="400" >
+<img src="pictures/3.png"  >
 
 
 
