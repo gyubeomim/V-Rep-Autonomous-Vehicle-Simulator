@@ -14,7 +14,8 @@ to ROS at the same time as soon as you run the simulation.
 - Map File was built by using `Google Sketchup`.
 
 1. move `libv_repExtImu.so`, `libv_repExtRosVelodyne.so` to your V-Rep home folder.  
-2. build `libv_repExtRosInterface.so` and move to your V-Rep home folder to communicate with ROS. (googling please)
+2. build `libv_repExtRosInterface.so` and move to your V-Rep home folder to communicate with ROS. (googling please)  
+  2.1 http://analuciacruz.me/articles/RosInterface_kinetic/  site will help you
 3. open V-Rep and Run. if there is no error, It's OK  
 
 
