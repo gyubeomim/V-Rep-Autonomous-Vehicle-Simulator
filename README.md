@@ -18,6 +18,18 @@ to ROS at the same time as soon as you run the simulation.
   2.1. should USE `V-Rep 3.5` Version to use V-Rep with ROS automatically connected
 
 
+## Cite
+ - if you are using this environment as a research, please cite us.
+ ```
+ @article{GyubeomVRep2018,
+  title={V-Rep Simulator for Autonomous Vehicle Research in Parking lot Environment},
+  author={Gyubeom Im, Minsung Kim, Joonwoo Ahn, Minsoo Kim, Jaeheung Park},
+  journal={The Korean Society of Automotive Engineers Annual Autumn Conference, Kangwon, Korea, 14.11.2018.},
+  pages={689--692},
+  year={2018}
+} 
+ ```
+
 
 <br /> <br />
 ## Topic 
