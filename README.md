@@ -8,7 +8,7 @@ https://youtu.be/k36PovHUOAg
   
 <br /> <br />
 ## Cite
- - if you are using this environment as a research, please cite us.
+ - if you use this environment in an academic work, please cite:
  ```
  @article{GyubeomVRep2018,
   title={V-Rep Simulator for Autonomous Vehicle Research in Parking lot Environment},
