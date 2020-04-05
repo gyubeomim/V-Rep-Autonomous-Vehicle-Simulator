@@ -13,7 +13,7 @@ https://youtu.be/k36PovHUOAg
  @article{GyubeomVRep2018,
   title={V-Rep Simulator for Autonomous Vehicle Research in Parking lot Environment},
   author={Gyubeom Im, Minsung Kim, Joonwoo Ahn, Minsoo Kim, Jaeheung Park},
-  journal={The Korean Society of Automotive Engineers Annual Autumn Conference, Kangwon, Korea, 14.11.2018.},
+  journal={The Korean Society of Automotive Engineers Annual Autumn Conference},
   pages={689--692},
   year={2018}
 } 
